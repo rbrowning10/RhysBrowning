@@ -1,0 +1,6 @@
+C:\Users\rhys\source\repos\RhysBrowning\RhysBrowning\bin\Debug\RhysBrowning.exe.config
+C:\Users\rhys\source\repos\RhysBrowning\RhysBrowning\bin\Debug\RhysBrowning.exe
+C:\Users\rhys\source\repos\RhysBrowning\RhysBrowning\bin\Debug\RhysBrowning.pdb
+C:\Users\rhys\source\repos\RhysBrowning\RhysBrowning\obj\Debug\RhysBrowning.csproj.CoreCompileInputs.cache
+C:\Users\rhys\source\repos\RhysBrowning\RhysBrowning\obj\Debug\RhysBrowning.exe
+C:\Users\rhys\source\repos\RhysBrowning\RhysBrowning\obj\Debug\RhysBrowning.pdb
